@@ -42,12 +42,10 @@
 }
 
 .bg-c{
-    background-color: rgb(58, 238, 13);
+    background-color: rgb(223, 41, 24);
 }
 
-.width{
-    width: 450px;
-}
+
 
 .img-rounded{
  border-radius: 50% ;
@@ -58,8 +56,23 @@
 
 .bg-i{
     background-image: url(../image/slider/bg.jpg);
-
+    background-position-x:right;
     background-size: cover;
 }
 
+.img-round{
+ border-radius: 50% ;
+ height: 50px;
+ width:50px;
+ border : 2px;
+}
 
+.bg-color{
+    background-color: rgb(91, 93, 93);
+}
+
+
+.bg-i1{
+    background-image: url(../image/slider/contact.jpg);
+    background-size: cover;
+}
